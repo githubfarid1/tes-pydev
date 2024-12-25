@@ -1,4 +1,4 @@
-name: Run command on remote server
+name: Run command on pi server
 on:
   pull_request:
     types:
